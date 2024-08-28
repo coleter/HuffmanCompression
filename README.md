@@ -16,6 +16,7 @@ This project implements Huffman compression and decompression algorithms in C. H
 - `hcompress.h`: Header file for `hcompress.c`.
 - `linkedList.c`: Implements a linked list used to manage nodes in the priority queue.
 - `linkedList.h`: Header file for `linkedList.c`.
+- `decind.txt`: Sample text file for compression and decompression
 
 ## How to Compile
 
